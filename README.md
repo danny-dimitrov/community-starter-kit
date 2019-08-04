@@ -8,7 +8,7 @@ In this course, you'll learn:
     * How to add metadata and help potential contributors find your project
     * The standard files contributors will look for and what they should contain
     * Tips for building a healthy, welcoming community
-    * Other ways you can make your project easy to useFEATURES PLACEHOLDER
+    * Other ways you can make your project easy to use
 
 ## Getting started
 
