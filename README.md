@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+In this course, you will learn about the informal standards the community has adopted to make it easier to find and contribute to projects.
 
 ## What it does
+In this course, you'll learn:
 
-FEATURES PLACEHOLDER
+    * How to add metadata and help potential contributors find your project
+    * The standard files contributors will look for and what they should contain
+    * Tips for building a healthy, welcoming community
+    * Other ways you can make your project easy to useFEATURES PLACEHOLDER
 
 ## Getting started
 
