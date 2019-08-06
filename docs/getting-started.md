@@ -35,4 +35,8 @@ firstPRMergeComment: >
 
 ### Example Messages
 
-CONFIGS PLACEHOLDER
+**BULLSEYE!!!**:dart: Excellent job!
+
+**WELL DONE!** Keep up the good work! :+1:
+
+**Congrats!!!** You are awsome at this! :trophy:
