@@ -13,8 +13,8 @@ There are many ways you can help us make this project better. Every repository i
 - **development-needed**: software engeneers
 - **qa-needed**: QA testers
 - **documentation-needed**: linguists, translators, technical writers
-- **bug-high-priority**: DESCRIPTION PLACEHOLDER
-- **bug-low-priority**: DESCRIPTION PLACEHOLDER
-- **help-wanted**: DESCRIPTION PLACEHOLDER
+- **bug-high-priority**: experienced programmers
+- **bug-low-priority**: volunteer programmers
+- **help-wanted**: anyone qualified who would like to contribute to the project
 
 You can also help by translating documentation and reviewing open pull requests.
